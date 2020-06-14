@@ -7,7 +7,7 @@
 
 **Thoughts:**
 
-**Link to work:** [Calculator App]
+**Link to work:** 
 ---------------------------------------------------
 
 
